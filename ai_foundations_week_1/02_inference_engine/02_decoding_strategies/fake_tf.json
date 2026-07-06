@@ -1,0 +1,218 @@
+{
+    "The": {
+        "cat": 6,
+        "dog": 5,
+        "bird": 4,
+        "boy": 3,
+        "girl": 3
+    },
+
+    "The cat": {
+        "sat": 7,
+        "slept": 5,
+        "jumped": 4,
+        "ran": 3
+    },
+
+    "The dog": {
+        "barked": 7,
+        "ran": 5,
+        "slept": 4,
+        "jumped": 3
+    },
+
+    "The bird": {
+        "flew": 7,
+        "sang": 5,
+        "landed": 4
+    },
+
+    "The boy": {
+        "played": 7,
+        "read": 5,
+        "ran": 4
+    },
+
+    "The girl": {
+        "painted": 7,
+        "sang": 5,
+        "danced": 4
+    },
+
+    "The cat sat": {
+        "on": 8,
+        "near": 5
+    },
+
+    "The cat slept": {
+        "on": 8,
+        "beside": 5
+    },
+
+    "The cat jumped": {
+        "over": 8
+    },
+
+    "The cat ran": {
+        "towards": 8
+    },
+
+    "The dog barked": {
+        "at": 8
+    },
+
+    "The dog ran": {
+        "towards": 8,
+        "into": 5
+    },
+
+    "The dog slept": {
+        "under": 8
+    },
+
+    "The dog jumped": {
+        "over": 8
+    },
+
+    "The bird flew": {
+        "over": 8
+    },
+
+    "The bird sang": {
+        "beautifully": 8
+    },
+
+    "The bird landed": {
+        "on": 8
+    },
+
+    "The boy played": {
+        "football": 8,
+        "outside": 6
+    },
+
+    "The boy read": {
+        "a": 8
+    },
+
+    "The boy ran": {
+        "home": 8
+    },
+
+    "The girl painted": {
+        "a": 8
+    },
+
+    "The girl sang": {
+        "beautifully": 8
+    },
+
+    "The girl danced": {
+        "gracefully": 8
+    },
+
+    "The cat sat on": {
+        "the": 8
+    },
+
+    "The cat slept on": {
+        "the": 8
+    },
+
+    "The cat jumped over": {
+        "the": 8
+    },
+
+    "The cat ran towards": {
+        "the": 8
+    },
+
+    "The dog barked at": {
+        "the": 8
+    },
+
+    "The dog ran towards": {
+        "the": 8
+    },
+
+    "The dog ran into": {
+        "the": 8
+    },
+
+    "The dog slept under": {
+        "the": 8
+    },
+
+    "The dog jumped over": {
+        "the": 8
+    },
+
+    "The bird flew over": {
+        "the": 8
+    },
+
+    "The bird landed on": {
+        "the": 8
+    },
+
+    "The boy read a": {
+        "book": 8
+    },
+
+    "The girl painted a": {
+        "picture": 8
+    },
+
+    "The cat sat on the": {
+        "mat": 8,
+        "chair": 6,
+        "sofa": 5
+    },
+
+    "The cat slept on the": {
+        "bed": 8,
+        "rug": 6
+    },
+
+    "The cat jumped over the": {
+        "wall": 8,
+        "fence": 6
+    },
+
+    "The cat ran towards the": {
+        "garden": 8,
+        "door": 6
+    },
+
+    "The dog barked at the": {
+        "mailman": 8,
+        "cat": 6
+    },
+
+    "The dog ran towards the": {
+        "park": 8,
+        "house": 6
+    },
+
+    "The dog ran into the": {
+        "garden": 8
+    },
+
+    "The dog slept under the": {
+        "tree": 8
+    },
+
+    "The dog jumped over the": {
+        "log": 8
+    },
+
+    "The bird flew over the": {
+        "lake": 8,
+        "trees": 6
+    },
+
+    "The bird landed on the": {
+        "branch": 8,
+        "roof": 6
+    }
+}

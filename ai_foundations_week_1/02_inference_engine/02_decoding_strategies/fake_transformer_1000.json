@@ -1,0 +1,4412 @@
+{
+  "The": {
+    "quick": 5
+  },
+  "The quick": {
+    "cat": 2
+  },
+  "The quick cat": {
+    "found": 10
+  },
+  "The quick cat found": {
+    "rabbit": 9,
+    "mouse": 8,
+    "tree": 10,
+    "river": 14,
+    "house": 19,
+    "garden": 5,
+    "bridge": 7,
+    "castle": 9,
+    "book": 14,
+    "painting": 20
+  },
+  "The quick cat found rabbit": {
+    "today": 9,
+    "outside": 6,
+    "quickly": 5,
+    "carefully": 19,
+    "silently": 4,
+    "happily": 20,
+    "slowly": 15,
+    "gracefully": 3,
+    "easily": 2,
+    "yesterday": 4
+  },
+  "The quick cat found rabbit today": {
+    "<EOS>": 30
+  },
+  "The quick cat found rabbit outside": {
+    "<EOS>": 30
+  },
+  "The quick cat found rabbit quickly": {
+    "<EOS>": 30
+  },
+  "The quick cat found rabbit carefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found rabbit silently": {
+    "<EOS>": 30
+  },
+  "The quick cat found rabbit happily": {
+    "<EOS>": 30
+  },
+  "The quick cat found rabbit slowly": {
+    "<EOS>": 30
+  },
+  "The quick cat found rabbit gracefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found rabbit easily": {
+    "<EOS>": 30
+  },
+  "The quick cat found rabbit yesterday": {
+    "<EOS>": 30
+  },
+  "The quick cat found mouse": {
+    "today": 9,
+    "outside": 18,
+    "quickly": 2,
+    "carefully": 19,
+    "silently": 8,
+    "happily": 19,
+    "slowly": 15,
+    "gracefully": 9,
+    "easily": 16,
+    "yesterday": 20
+  },
+  "The quick cat found mouse today": {
+    "<EOS>": 30
+  },
+  "The quick cat found mouse outside": {
+    "<EOS>": 30
+  },
+  "The quick cat found mouse quickly": {
+    "<EOS>": 30
+  },
+  "The quick cat found mouse carefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found mouse silently": {
+    "<EOS>": 30
+  },
+  "The quick cat found mouse happily": {
+    "<EOS>": 30
+  },
+  "The quick cat found mouse slowly": {
+    "<EOS>": 30
+  },
+  "The quick cat found mouse gracefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found mouse easily": {
+    "<EOS>": 30
+  },
+  "The quick cat found mouse yesterday": {
+    "<EOS>": 30
+  },
+  "The quick cat found tree": {
+    "today": 2,
+    "outside": 7,
+    "quickly": 15,
+    "carefully": 12,
+    "silently": 10,
+    "happily": 6,
+    "slowly": 8,
+    "gracefully": 12,
+    "easily": 5,
+    "yesterday": 4
+  },
+  "The quick cat found tree today": {
+    "<EOS>": 30
+  },
+  "The quick cat found tree outside": {
+    "<EOS>": 30
+  },
+  "The quick cat found tree quickly": {
+    "<EOS>": 30
+  },
+  "The quick cat found tree carefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found tree silently": {
+    "<EOS>": 30
+  },
+  "The quick cat found tree happily": {
+    "<EOS>": 30
+  },
+  "The quick cat found tree slowly": {
+    "<EOS>": 30
+  },
+  "The quick cat found tree gracefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found tree easily": {
+    "<EOS>": 30
+  },
+  "The quick cat found tree yesterday": {
+    "<EOS>": 30
+  },
+  "The quick cat found river": {
+    "today": 5,
+    "outside": 13,
+    "quickly": 13,
+    "carefully": 10,
+    "silently": 3,
+    "happily": 16,
+    "slowly": 19,
+    "gracefully": 5,
+    "easily": 14,
+    "yesterday": 4
+  },
+  "The quick cat found river today": {
+    "<EOS>": 30
+  },
+  "The quick cat found river outside": {
+    "<EOS>": 30
+  },
+  "The quick cat found river quickly": {
+    "<EOS>": 30
+  },
+  "The quick cat found river carefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found river silently": {
+    "<EOS>": 30
+  },
+  "The quick cat found river happily": {
+    "<EOS>": 30
+  },
+  "The quick cat found river slowly": {
+    "<EOS>": 30
+  },
+  "The quick cat found river gracefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found river easily": {
+    "<EOS>": 30
+  },
+  "The quick cat found river yesterday": {
+    "<EOS>": 30
+  },
+  "The quick cat found house": {
+    "today": 11,
+    "outside": 13,
+    "quickly": 20,
+    "carefully": 8,
+    "silently": 4,
+    "happily": 3,
+    "slowly": 9,
+    "gracefully": 11,
+    "easily": 4,
+    "yesterday": 9
+  },
+  "The quick cat found house today": {
+    "<EOS>": 30
+  },
+  "The quick cat found house outside": {
+    "<EOS>": 30
+  },
+  "The quick cat found house quickly": {
+    "<EOS>": 30
+  },
+  "The quick cat found house carefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found house silently": {
+    "<EOS>": 30
+  },
+  "The quick cat found house happily": {
+    "<EOS>": 30
+  },
+  "The quick cat found house slowly": {
+    "<EOS>": 30
+  },
+  "The quick cat found house gracefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found house easily": {
+    "<EOS>": 30
+  },
+  "The quick cat found house yesterday": {
+    "<EOS>": 30
+  },
+  "The quick cat found garden": {
+    "today": 14,
+    "outside": 10,
+    "quickly": 16,
+    "carefully": 13,
+    "silently": 7,
+    "happily": 13,
+    "slowly": 13,
+    "gracefully": 8,
+    "easily": 10,
+    "yesterday": 4
+  },
+  "The quick cat found garden today": {
+    "<EOS>": 30
+  },
+  "The quick cat found garden outside": {
+    "<EOS>": 30
+  },
+  "The quick cat found garden quickly": {
+    "<EOS>": 30
+  },
+  "The quick cat found garden carefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found garden silently": {
+    "<EOS>": 30
+  },
+  "The quick cat found garden happily": {
+    "<EOS>": 30
+  },
+  "The quick cat found garden slowly": {
+    "<EOS>": 30
+  },
+  "The quick cat found garden gracefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found garden easily": {
+    "<EOS>": 30
+  },
+  "The quick cat found garden yesterday": {
+    "<EOS>": 30
+  },
+  "The quick cat found bridge": {
+    "today": 19,
+    "outside": 9,
+    "quickly": 7,
+    "carefully": 16,
+    "silently": 14,
+    "happily": 10,
+    "slowly": 19,
+    "gracefully": 9,
+    "easily": 12,
+    "yesterday": 3
+  },
+  "The quick cat found bridge today": {
+    "<EOS>": 30
+  },
+  "The quick cat found bridge outside": {
+    "<EOS>": 30
+  },
+  "The quick cat found bridge quickly": {
+    "<EOS>": 30
+  },
+  "The quick cat found bridge carefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found bridge silently": {
+    "<EOS>": 30
+  },
+  "The quick cat found bridge happily": {
+    "<EOS>": 30
+  },
+  "The quick cat found bridge slowly": {
+    "<EOS>": 30
+  },
+  "The quick cat found bridge gracefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found bridge easily": {
+    "<EOS>": 30
+  },
+  "The quick cat found bridge yesterday": {
+    "<EOS>": 30
+  },
+  "The quick cat found castle": {
+    "today": 3,
+    "outside": 12,
+    "quickly": 14,
+    "carefully": 10,
+    "silently": 4,
+    "happily": 8,
+    "slowly": 20,
+    "gracefully": 12,
+    "easily": 8,
+    "yesterday": 17
+  },
+  "The quick cat found castle today": {
+    "<EOS>": 30
+  },
+  "The quick cat found castle outside": {
+    "<EOS>": 30
+  },
+  "The quick cat found castle quickly": {
+    "<EOS>": 30
+  },
+  "The quick cat found castle carefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found castle silently": {
+    "<EOS>": 30
+  },
+  "The quick cat found castle happily": {
+    "<EOS>": 30
+  },
+  "The quick cat found castle slowly": {
+    "<EOS>": 30
+  },
+  "The quick cat found castle gracefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found castle easily": {
+    "<EOS>": 30
+  },
+  "The quick cat found castle yesterday": {
+    "<EOS>": 30
+  },
+  "The quick cat found book": {
+    "today": 16,
+    "outside": 6,
+    "quickly": 10,
+    "carefully": 6,
+    "silently": 9,
+    "happily": 19,
+    "slowly": 19,
+    "gracefully": 10,
+    "easily": 20,
+    "yesterday": 15
+  },
+  "The quick cat found book today": {
+    "<EOS>": 30
+  },
+  "The quick cat found book outside": {
+    "<EOS>": 30
+  },
+  "The quick cat found book quickly": {
+    "<EOS>": 30
+  },
+  "The quick cat found book carefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found book silently": {
+    "<EOS>": 30
+  },
+  "The quick cat found book happily": {
+    "<EOS>": 30
+  },
+  "The quick cat found book slowly": {
+    "<EOS>": 30
+  },
+  "The quick cat found book gracefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found book easily": {
+    "<EOS>": 30
+  },
+  "The quick cat found book yesterday": {
+    "<EOS>": 30
+  },
+  "The quick cat found painting": {
+    "today": 14,
+    "outside": 13,
+    "quickly": 9,
+    "carefully": 6,
+    "silently": 18,
+    "happily": 17,
+    "slowly": 4,
+    "gracefully": 3,
+    "easily": 5,
+    "yesterday": 6
+  },
+  "The quick cat found painting today": {
+    "<EOS>": 30
+  },
+  "The quick cat found painting outside": {
+    "<EOS>": 30
+  },
+  "The quick cat found painting quickly": {
+    "<EOS>": 30
+  },
+  "The quick cat found painting carefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found painting silently": {
+    "<EOS>": 30
+  },
+  "The quick cat found painting happily": {
+    "<EOS>": 30
+  },
+  "The quick cat found painting slowly": {
+    "<EOS>": 30
+  },
+  "The quick cat found painting gracefully": {
+    "<EOS>": 30
+  },
+  "The quick cat found painting easily": {
+    "<EOS>": 30
+  },
+  "The quick cat found painting yesterday": {
+    "<EOS>": 30
+  },
+  "A": {
+    "quick": 7
+  },
+  "A quick": {
+    "cat": 15
+  },
+  "A quick cat": {
+    "found": 4
+  },
+  "A quick cat found": {
+    "rabbit": 14,
+    "mouse": 5,
+    "tree": 11,
+    "river": 2,
+    "house": 4,
+    "garden": 19,
+    "bridge": 4,
+    "castle": 9,
+    "book": 6,
+    "painting": 13
+  },
+  "A quick cat found rabbit": {
+    "today": 14,
+    "outside": 16,
+    "quickly": 18,
+    "carefully": 10,
+    "silently": 19,
+    "happily": 2,
+    "slowly": 5,
+    "gracefully": 19,
+    "easily": 10,
+    "yesterday": 12
+  },
+  "A quick cat found rabbit today": {
+    "<EOS>": 30
+  },
+  "A quick cat found rabbit outside": {
+    "<EOS>": 30
+  },
+  "A quick cat found rabbit quickly": {
+    "<EOS>": 30
+  },
+  "A quick cat found rabbit carefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found rabbit silently": {
+    "<EOS>": 30
+  },
+  "A quick cat found rabbit happily": {
+    "<EOS>": 30
+  },
+  "A quick cat found rabbit slowly": {
+    "<EOS>": 30
+  },
+  "A quick cat found rabbit gracefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found rabbit easily": {
+    "<EOS>": 30
+  },
+  "A quick cat found rabbit yesterday": {
+    "<EOS>": 30
+  },
+  "A quick cat found mouse": {
+    "today": 11,
+    "outside": 15,
+    "quickly": 7,
+    "carefully": 16,
+    "silently": 2,
+    "happily": 10,
+    "slowly": 18,
+    "gracefully": 7,
+    "easily": 18,
+    "yesterday": 5
+  },
+  "A quick cat found mouse today": {
+    "<EOS>": 30
+  },
+  "A quick cat found mouse outside": {
+    "<EOS>": 30
+  },
+  "A quick cat found mouse quickly": {
+    "<EOS>": 30
+  },
+  "A quick cat found mouse carefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found mouse silently": {
+    "<EOS>": 30
+  },
+  "A quick cat found mouse happily": {
+    "<EOS>": 30
+  },
+  "A quick cat found mouse slowly": {
+    "<EOS>": 30
+  },
+  "A quick cat found mouse gracefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found mouse easily": {
+    "<EOS>": 30
+  },
+  "A quick cat found mouse yesterday": {
+    "<EOS>": 30
+  },
+  "A quick cat found tree": {
+    "today": 18,
+    "outside": 8,
+    "quickly": 6,
+    "carefully": 13,
+    "silently": 7,
+    "happily": 19,
+    "slowly": 18,
+    "gracefully": 2,
+    "easily": 12,
+    "yesterday": 17
+  },
+  "A quick cat found tree today": {
+    "<EOS>": 30
+  },
+  "A quick cat found tree outside": {
+    "<EOS>": 30
+  },
+  "A quick cat found tree quickly": {
+    "<EOS>": 30
+  },
+  "A quick cat found tree carefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found tree silently": {
+    "<EOS>": 30
+  },
+  "A quick cat found tree happily": {
+    "<EOS>": 30
+  },
+  "A quick cat found tree slowly": {
+    "<EOS>": 30
+  },
+  "A quick cat found tree gracefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found tree easily": {
+    "<EOS>": 30
+  },
+  "A quick cat found tree yesterday": {
+    "<EOS>": 30
+  },
+  "A quick cat found river": {
+    "today": 5,
+    "outside": 13,
+    "quickly": 11,
+    "carefully": 9,
+    "silently": 3,
+    "happily": 9,
+    "slowly": 20,
+    "gracefully": 4,
+    "easily": 4,
+    "yesterday": 17
+  },
+  "A quick cat found river today": {
+    "<EOS>": 30
+  },
+  "A quick cat found river outside": {
+    "<EOS>": 30
+  },
+  "A quick cat found river quickly": {
+    "<EOS>": 30
+  },
+  "A quick cat found river carefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found river silently": {
+    "<EOS>": 30
+  },
+  "A quick cat found river happily": {
+    "<EOS>": 30
+  },
+  "A quick cat found river slowly": {
+    "<EOS>": 30
+  },
+  "A quick cat found river gracefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found river easily": {
+    "<EOS>": 30
+  },
+  "A quick cat found river yesterday": {
+    "<EOS>": 30
+  },
+  "A quick cat found house": {
+    "today": 19,
+    "outside": 6,
+    "quickly": 6,
+    "carefully": 17,
+    "silently": 19,
+    "happily": 7,
+    "slowly": 10,
+    "gracefully": 18,
+    "easily": 15,
+    "yesterday": 8
+  },
+  "A quick cat found house today": {
+    "<EOS>": 30
+  },
+  "A quick cat found house outside": {
+    "<EOS>": 30
+  },
+  "A quick cat found house quickly": {
+    "<EOS>": 30
+  },
+  "A quick cat found house carefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found house silently": {
+    "<EOS>": 30
+  },
+  "A quick cat found house happily": {
+    "<EOS>": 30
+  },
+  "A quick cat found house slowly": {
+    "<EOS>": 30
+  },
+  "A quick cat found house gracefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found house easily": {
+    "<EOS>": 30
+  },
+  "A quick cat found house yesterday": {
+    "<EOS>": 30
+  },
+  "A quick cat found garden": {
+    "today": 8,
+    "outside": 11,
+    "quickly": 14,
+    "carefully": 13,
+    "silently": 16,
+    "happily": 18,
+    "slowly": 16,
+    "gracefully": 5,
+    "easily": 9,
+    "yesterday": 9
+  },
+  "A quick cat found garden today": {
+    "<EOS>": 30
+  },
+  "A quick cat found garden outside": {
+    "<EOS>": 30
+  },
+  "A quick cat found garden quickly": {
+    "<EOS>": 30
+  },
+  "A quick cat found garden carefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found garden silently": {
+    "<EOS>": 30
+  },
+  "A quick cat found garden happily": {
+    "<EOS>": 30
+  },
+  "A quick cat found garden slowly": {
+    "<EOS>": 30
+  },
+  "A quick cat found garden gracefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found garden easily": {
+    "<EOS>": 30
+  },
+  "A quick cat found garden yesterday": {
+    "<EOS>": 30
+  },
+  "A quick cat found bridge": {
+    "today": 12,
+    "outside": 2,
+    "quickly": 20,
+    "carefully": 19,
+    "silently": 9,
+    "happily": 20,
+    "slowly": 9,
+    "gracefully": 2,
+    "easily": 4,
+    "yesterday": 3
+  },
+  "A quick cat found bridge today": {
+    "<EOS>": 30
+  },
+  "A quick cat found bridge outside": {
+    "<EOS>": 30
+  },
+  "A quick cat found bridge quickly": {
+    "<EOS>": 30
+  },
+  "A quick cat found bridge carefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found bridge silently": {
+    "<EOS>": 30
+  },
+  "A quick cat found bridge happily": {
+    "<EOS>": 30
+  },
+  "A quick cat found bridge slowly": {
+    "<EOS>": 30
+  },
+  "A quick cat found bridge gracefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found bridge easily": {
+    "<EOS>": 30
+  },
+  "A quick cat found bridge yesterday": {
+    "<EOS>": 30
+  },
+  "A quick cat found castle": {
+    "today": 4,
+    "outside": 3,
+    "quickly": 12,
+    "carefully": 4,
+    "silently": 18,
+    "happily": 9,
+    "slowly": 10,
+    "gracefully": 17,
+    "easily": 8,
+    "yesterday": 19
+  },
+  "A quick cat found castle today": {
+    "<EOS>": 30
+  },
+  "A quick cat found castle outside": {
+    "<EOS>": 30
+  },
+  "A quick cat found castle quickly": {
+    "<EOS>": 30
+  },
+  "A quick cat found castle carefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found castle silently": {
+    "<EOS>": 30
+  },
+  "A quick cat found castle happily": {
+    "<EOS>": 30
+  },
+  "A quick cat found castle slowly": {
+    "<EOS>": 30
+  },
+  "A quick cat found castle gracefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found castle easily": {
+    "<EOS>": 30
+  },
+  "A quick cat found castle yesterday": {
+    "<EOS>": 30
+  },
+  "A quick cat found book": {
+    "today": 20,
+    "outside": 20,
+    "quickly": 17,
+    "carefully": 9,
+    "silently": 17,
+    "happily": 15,
+    "slowly": 8,
+    "gracefully": 5,
+    "easily": 5,
+    "yesterday": 15
+  },
+  "A quick cat found book today": {
+    "<EOS>": 30
+  },
+  "A quick cat found book outside": {
+    "<EOS>": 30
+  },
+  "A quick cat found book quickly": {
+    "<EOS>": 30
+  },
+  "A quick cat found book carefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found book silently": {
+    "<EOS>": 30
+  },
+  "A quick cat found book happily": {
+    "<EOS>": 30
+  },
+  "A quick cat found book slowly": {
+    "<EOS>": 30
+  },
+  "A quick cat found book gracefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found book easily": {
+    "<EOS>": 30
+  },
+  "A quick cat found book yesterday": {
+    "<EOS>": 30
+  },
+  "A quick cat found painting": {
+    "today": 15,
+    "outside": 15,
+    "quickly": 16,
+    "carefully": 3,
+    "silently": 5,
+    "happily": 3,
+    "slowly": 14,
+    "gracefully": 12,
+    "easily": 5,
+    "yesterday": 9
+  },
+  "A quick cat found painting today": {
+    "<EOS>": 30
+  },
+  "A quick cat found painting outside": {
+    "<EOS>": 30
+  },
+  "A quick cat found painting quickly": {
+    "<EOS>": 30
+  },
+  "A quick cat found painting carefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found painting silently": {
+    "<EOS>": 30
+  },
+  "A quick cat found painting happily": {
+    "<EOS>": 30
+  },
+  "A quick cat found painting slowly": {
+    "<EOS>": 30
+  },
+  "A quick cat found painting gracefully": {
+    "<EOS>": 30
+  },
+  "A quick cat found painting easily": {
+    "<EOS>": 30
+  },
+  "A quick cat found painting yesterday": {
+    "<EOS>": 30
+  },
+  "Every": {
+    "quick": 8
+  },
+  "Every quick": {
+    "cat": 8
+  },
+  "Every quick cat": {
+    "found": 19
+  },
+  "Every quick cat found": {
+    "rabbit": 16,
+    "mouse": 3,
+    "tree": 3,
+    "river": 6,
+    "house": 20,
+    "garden": 9,
+    "bridge": 18,
+    "castle": 12,
+    "book": 6,
+    "painting": 2
+  },
+  "Every quick cat found rabbit": {
+    "today": 6,
+    "outside": 15,
+    "quickly": 7,
+    "carefully": 10,
+    "silently": 16,
+    "happily": 9,
+    "slowly": 4,
+    "gracefully": 16,
+    "easily": 19,
+    "yesterday": 5
+  },
+  "Every quick cat found rabbit today": {
+    "<EOS>": 30
+  },
+  "Every quick cat found rabbit outside": {
+    "<EOS>": 30
+  },
+  "Every quick cat found rabbit quickly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found rabbit carefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found rabbit silently": {
+    "<EOS>": 30
+  },
+  "Every quick cat found rabbit happily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found rabbit slowly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found rabbit gracefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found rabbit easily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found rabbit yesterday": {
+    "<EOS>": 30
+  },
+  "Every quick cat found mouse": {
+    "today": 19,
+    "outside": 2,
+    "quickly": 4,
+    "carefully": 9,
+    "silently": 7,
+    "happily": 15,
+    "slowly": 17,
+    "gracefully": 17,
+    "easily": 8,
+    "yesterday": 14
+  },
+  "Every quick cat found mouse today": {
+    "<EOS>": 30
+  },
+  "Every quick cat found mouse outside": {
+    "<EOS>": 30
+  },
+  "Every quick cat found mouse quickly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found mouse carefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found mouse silently": {
+    "<EOS>": 30
+  },
+  "Every quick cat found mouse happily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found mouse slowly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found mouse gracefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found mouse easily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found mouse yesterday": {
+    "<EOS>": 30
+  },
+  "Every quick cat found tree": {
+    "today": 7,
+    "outside": 14,
+    "quickly": 2,
+    "carefully": 14,
+    "silently": 10,
+    "happily": 16,
+    "slowly": 11,
+    "gracefully": 15,
+    "easily": 19,
+    "yesterday": 17
+  },
+  "Every quick cat found tree today": {
+    "<EOS>": 30
+  },
+  "Every quick cat found tree outside": {
+    "<EOS>": 30
+  },
+  "Every quick cat found tree quickly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found tree carefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found tree silently": {
+    "<EOS>": 30
+  },
+  "Every quick cat found tree happily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found tree slowly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found tree gracefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found tree easily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found tree yesterday": {
+    "<EOS>": 30
+  },
+  "Every quick cat found river": {
+    "today": 8,
+    "outside": 11,
+    "quickly": 8,
+    "carefully": 3,
+    "silently": 20,
+    "happily": 19,
+    "slowly": 3,
+    "gracefully": 12,
+    "easily": 3,
+    "yesterday": 3
+  },
+  "Every quick cat found river today": {
+    "<EOS>": 30
+  },
+  "Every quick cat found river outside": {
+    "<EOS>": 30
+  },
+  "Every quick cat found river quickly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found river carefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found river silently": {
+    "<EOS>": 30
+  },
+  "Every quick cat found river happily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found river slowly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found river gracefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found river easily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found river yesterday": {
+    "<EOS>": 30
+  },
+  "Every quick cat found house": {
+    "today": 17,
+    "outside": 18,
+    "quickly": 18,
+    "carefully": 7,
+    "silently": 3,
+    "happily": 18,
+    "slowly": 4,
+    "gracefully": 7,
+    "easily": 4,
+    "yesterday": 4
+  },
+  "Every quick cat found house today": {
+    "<EOS>": 30
+  },
+  "Every quick cat found house outside": {
+    "<EOS>": 30
+  },
+  "Every quick cat found house quickly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found house carefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found house silently": {
+    "<EOS>": 30
+  },
+  "Every quick cat found house happily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found house slowly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found house gracefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found house easily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found house yesterday": {
+    "<EOS>": 30
+  },
+  "Every quick cat found garden": {
+    "today": 14,
+    "outside": 5,
+    "quickly": 20,
+    "carefully": 9,
+    "silently": 20,
+    "happily": 3,
+    "slowly": 4,
+    "gracefully": 15,
+    "easily": 20,
+    "yesterday": 20
+  },
+  "Every quick cat found garden today": {
+    "<EOS>": 30
+  },
+  "Every quick cat found garden outside": {
+    "<EOS>": 30
+  },
+  "Every quick cat found garden quickly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found garden carefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found garden silently": {
+    "<EOS>": 30
+  },
+  "Every quick cat found garden happily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found garden slowly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found garden gracefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found garden easily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found garden yesterday": {
+    "<EOS>": 30
+  },
+  "Every quick cat found bridge": {
+    "today": 12,
+    "outside": 10,
+    "quickly": 8,
+    "carefully": 12,
+    "silently": 9,
+    "happily": 10,
+    "slowly": 14,
+    "gracefully": 6,
+    "easily": 11,
+    "yesterday": 16
+  },
+  "Every quick cat found bridge today": {
+    "<EOS>": 30
+  },
+  "Every quick cat found bridge outside": {
+    "<EOS>": 30
+  },
+  "Every quick cat found bridge quickly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found bridge carefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found bridge silently": {
+    "<EOS>": 30
+  },
+  "Every quick cat found bridge happily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found bridge slowly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found bridge gracefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found bridge easily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found bridge yesterday": {
+    "<EOS>": 30
+  },
+  "Every quick cat found castle": {
+    "today": 4,
+    "outside": 2,
+    "quickly": 16,
+    "carefully": 20,
+    "silently": 5,
+    "happily": 4,
+    "slowly": 19,
+    "gracefully": 8,
+    "easily": 18,
+    "yesterday": 10
+  },
+  "Every quick cat found castle today": {
+    "<EOS>": 30
+  },
+  "Every quick cat found castle outside": {
+    "<EOS>": 30
+  },
+  "Every quick cat found castle quickly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found castle carefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found castle silently": {
+    "<EOS>": 30
+  },
+  "Every quick cat found castle happily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found castle slowly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found castle gracefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found castle easily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found castle yesterday": {
+    "<EOS>": 30
+  },
+  "Every quick cat found book": {
+    "today": 13,
+    "outside": 4,
+    "quickly": 9,
+    "carefully": 13,
+    "silently": 11,
+    "happily": 7,
+    "slowly": 16,
+    "gracefully": 19,
+    "easily": 11,
+    "yesterday": 18
+  },
+  "Every quick cat found book today": {
+    "<EOS>": 30
+  },
+  "Every quick cat found book outside": {
+    "<EOS>": 30
+  },
+  "Every quick cat found book quickly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found book carefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found book silently": {
+    "<EOS>": 30
+  },
+  "Every quick cat found book happily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found book slowly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found book gracefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found book easily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found book yesterday": {
+    "<EOS>": 30
+  },
+  "Every quick cat found painting": {
+    "today": 19,
+    "outside": 11,
+    "quickly": 5,
+    "carefully": 6,
+    "silently": 10,
+    "happily": 5,
+    "slowly": 5,
+    "gracefully": 19,
+    "easily": 6,
+    "yesterday": 10
+  },
+  "Every quick cat found painting today": {
+    "<EOS>": 30
+  },
+  "Every quick cat found painting outside": {
+    "<EOS>": 30
+  },
+  "Every quick cat found painting quickly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found painting carefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found painting silently": {
+    "<EOS>": 30
+  },
+  "Every quick cat found painting happily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found painting slowly": {
+    "<EOS>": 30
+  },
+  "Every quick cat found painting gracefully": {
+    "<EOS>": 30
+  },
+  "Every quick cat found painting easily": {
+    "<EOS>": 30
+  },
+  "Every quick cat found painting yesterday": {
+    "<EOS>": 30
+  },
+  "Some": {
+    "quick": 11
+  },
+  "Some quick": {
+    "cat": 8
+  },
+  "Some quick cat": {
+    "found": 12
+  },
+  "Some quick cat found": {
+    "rabbit": 8,
+    "mouse": 12,
+    "tree": 6,
+    "river": 13,
+    "house": 7,
+    "garden": 14,
+    "bridge": 8,
+    "castle": 2,
+    "book": 15,
+    "painting": 19
+  },
+  "Some quick cat found rabbit": {
+    "today": 10,
+    "outside": 18,
+    "quickly": 17,
+    "carefully": 10,
+    "silently": 3,
+    "happily": 4,
+    "slowly": 15,
+    "gracefully": 10,
+    "easily": 3,
+    "yesterday": 2
+  },
+  "Some quick cat found rabbit today": {
+    "<EOS>": 30
+  },
+  "Some quick cat found rabbit outside": {
+    "<EOS>": 30
+  },
+  "Some quick cat found rabbit quickly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found rabbit carefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found rabbit silently": {
+    "<EOS>": 30
+  },
+  "Some quick cat found rabbit happily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found rabbit slowly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found rabbit gracefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found rabbit easily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found rabbit yesterday": {
+    "<EOS>": 30
+  },
+  "Some quick cat found mouse": {
+    "today": 6,
+    "outside": 10,
+    "quickly": 7,
+    "carefully": 16,
+    "silently": 19,
+    "happily": 15,
+    "slowly": 19,
+    "gracefully": 2,
+    "easily": 5,
+    "yesterday": 4
+  },
+  "Some quick cat found mouse today": {
+    "<EOS>": 30
+  },
+  "Some quick cat found mouse outside": {
+    "<EOS>": 30
+  },
+  "Some quick cat found mouse quickly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found mouse carefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found mouse silently": {
+    "<EOS>": 30
+  },
+  "Some quick cat found mouse happily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found mouse slowly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found mouse gracefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found mouse easily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found mouse yesterday": {
+    "<EOS>": 30
+  },
+  "Some quick cat found tree": {
+    "today": 19,
+    "outside": 3,
+    "quickly": 13,
+    "carefully": 20,
+    "silently": 19,
+    "happily": 6,
+    "slowly": 15,
+    "gracefully": 6,
+    "easily": 3,
+    "yesterday": 11
+  },
+  "Some quick cat found tree today": {
+    "<EOS>": 30
+  },
+  "Some quick cat found tree outside": {
+    "<EOS>": 30
+  },
+  "Some quick cat found tree quickly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found tree carefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found tree silently": {
+    "<EOS>": 30
+  },
+  "Some quick cat found tree happily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found tree slowly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found tree gracefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found tree easily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found tree yesterday": {
+    "<EOS>": 30
+  },
+  "Some quick cat found river": {
+    "today": 3,
+    "outside": 13,
+    "quickly": 8,
+    "carefully": 9,
+    "silently": 5,
+    "happily": 13,
+    "slowly": 19,
+    "gracefully": 15,
+    "easily": 6,
+    "yesterday": 9
+  },
+  "Some quick cat found river today": {
+    "<EOS>": 30
+  },
+  "Some quick cat found river outside": {
+    "<EOS>": 30
+  },
+  "Some quick cat found river quickly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found river carefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found river silently": {
+    "<EOS>": 30
+  },
+  "Some quick cat found river happily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found river slowly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found river gracefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found river easily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found river yesterday": {
+    "<EOS>": 30
+  },
+  "Some quick cat found house": {
+    "today": 7,
+    "outside": 15,
+    "quickly": 2,
+    "carefully": 7,
+    "silently": 12,
+    "happily": 15,
+    "slowly": 9,
+    "gracefully": 10,
+    "easily": 7,
+    "yesterday": 5
+  },
+  "Some quick cat found house today": {
+    "<EOS>": 30
+  },
+  "Some quick cat found house outside": {
+    "<EOS>": 30
+  },
+  "Some quick cat found house quickly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found house carefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found house silently": {
+    "<EOS>": 30
+  },
+  "Some quick cat found house happily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found house slowly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found house gracefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found house easily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found house yesterday": {
+    "<EOS>": 30
+  },
+  "Some quick cat found garden": {
+    "today": 3,
+    "outside": 17,
+    "quickly": 9,
+    "carefully": 8,
+    "silently": 16,
+    "happily": 13,
+    "slowly": 11,
+    "gracefully": 9,
+    "easily": 9,
+    "yesterday": 2
+  },
+  "Some quick cat found garden today": {
+    "<EOS>": 30
+  },
+  "Some quick cat found garden outside": {
+    "<EOS>": 30
+  },
+  "Some quick cat found garden quickly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found garden carefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found garden silently": {
+    "<EOS>": 30
+  },
+  "Some quick cat found garden happily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found garden slowly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found garden gracefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found garden easily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found garden yesterday": {
+    "<EOS>": 30
+  },
+  "Some quick cat found bridge": {
+    "today": 14,
+    "outside": 12,
+    "quickly": 10,
+    "carefully": 4,
+    "silently": 10,
+    "happily": 13,
+    "slowly": 18,
+    "gracefully": 14,
+    "easily": 19,
+    "yesterday": 12
+  },
+  "Some quick cat found bridge today": {
+    "<EOS>": 30
+  },
+  "Some quick cat found bridge outside": {
+    "<EOS>": 30
+  },
+  "Some quick cat found bridge quickly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found bridge carefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found bridge silently": {
+    "<EOS>": 30
+  },
+  "Some quick cat found bridge happily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found bridge slowly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found bridge gracefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found bridge easily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found bridge yesterday": {
+    "<EOS>": 30
+  },
+  "Some quick cat found castle": {
+    "today": 5,
+    "outside": 10,
+    "quickly": 7,
+    "carefully": 20,
+    "silently": 10,
+    "happily": 3,
+    "slowly": 5,
+    "gracefully": 15,
+    "easily": 13,
+    "yesterday": 12
+  },
+  "Some quick cat found castle today": {
+    "<EOS>": 30
+  },
+  "Some quick cat found castle outside": {
+    "<EOS>": 30
+  },
+  "Some quick cat found castle quickly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found castle carefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found castle silently": {
+    "<EOS>": 30
+  },
+  "Some quick cat found castle happily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found castle slowly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found castle gracefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found castle easily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found castle yesterday": {
+    "<EOS>": 30
+  },
+  "Some quick cat found book": {
+    "today": 18,
+    "outside": 5,
+    "quickly": 14,
+    "carefully": 20,
+    "silently": 8,
+    "happily": 10,
+    "slowly": 3,
+    "gracefully": 15,
+    "easily": 2,
+    "yesterday": 18
+  },
+  "Some quick cat found book today": {
+    "<EOS>": 30
+  },
+  "Some quick cat found book outside": {
+    "<EOS>": 30
+  },
+  "Some quick cat found book quickly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found book carefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found book silently": {
+    "<EOS>": 30
+  },
+  "Some quick cat found book happily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found book slowly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found book gracefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found book easily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found book yesterday": {
+    "<EOS>": 30
+  },
+  "Some quick cat found painting": {
+    "today": 8,
+    "outside": 13,
+    "quickly": 15,
+    "carefully": 4,
+    "silently": 12,
+    "happily": 12,
+    "slowly": 5,
+    "gracefully": 11,
+    "easily": 18,
+    "yesterday": 11
+  },
+  "Some quick cat found painting today": {
+    "<EOS>": 30
+  },
+  "Some quick cat found painting outside": {
+    "<EOS>": 30
+  },
+  "Some quick cat found painting quickly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found painting carefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found painting silently": {
+    "<EOS>": 30
+  },
+  "Some quick cat found painting happily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found painting slowly": {
+    "<EOS>": 30
+  },
+  "Some quick cat found painting gracefully": {
+    "<EOS>": 30
+  },
+  "Some quick cat found painting easily": {
+    "<EOS>": 30
+  },
+  "Some quick cat found painting yesterday": {
+    "<EOS>": 30
+  },
+  "This": {
+    "quick": 15
+  },
+  "This quick": {
+    "cat": 12
+  },
+  "This quick cat": {
+    "found": 14
+  },
+  "This quick cat found": {
+    "rabbit": 11,
+    "mouse": 2,
+    "tree": 18,
+    "river": 8,
+    "house": 14,
+    "garden": 16,
+    "bridge": 16,
+    "castle": 18,
+    "book": 19,
+    "painting": 12
+  },
+  "This quick cat found rabbit": {
+    "today": 19,
+    "outside": 6,
+    "quickly": 8,
+    "carefully": 15,
+    "silently": 14,
+    "happily": 7,
+    "slowly": 20,
+    "gracefully": 11,
+    "easily": 14,
+    "yesterday": 19
+  },
+  "This quick cat found rabbit today": {
+    "<EOS>": 30
+  },
+  "This quick cat found rabbit outside": {
+    "<EOS>": 30
+  },
+  "This quick cat found rabbit quickly": {
+    "<EOS>": 30
+  },
+  "This quick cat found rabbit carefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found rabbit silently": {
+    "<EOS>": 30
+  },
+  "This quick cat found rabbit happily": {
+    "<EOS>": 30
+  },
+  "This quick cat found rabbit slowly": {
+    "<EOS>": 30
+  },
+  "This quick cat found rabbit gracefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found rabbit easily": {
+    "<EOS>": 30
+  },
+  "This quick cat found rabbit yesterday": {
+    "<EOS>": 30
+  },
+  "This quick cat found mouse": {
+    "today": 11,
+    "outside": 11,
+    "quickly": 8,
+    "carefully": 15,
+    "silently": 20,
+    "happily": 12,
+    "slowly": 16,
+    "gracefully": 16,
+    "easily": 16,
+    "yesterday": 8
+  },
+  "This quick cat found mouse today": {
+    "<EOS>": 30
+  },
+  "This quick cat found mouse outside": {
+    "<EOS>": 30
+  },
+  "This quick cat found mouse quickly": {
+    "<EOS>": 30
+  },
+  "This quick cat found mouse carefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found mouse silently": {
+    "<EOS>": 30
+  },
+  "This quick cat found mouse happily": {
+    "<EOS>": 30
+  },
+  "This quick cat found mouse slowly": {
+    "<EOS>": 30
+  },
+  "This quick cat found mouse gracefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found mouse easily": {
+    "<EOS>": 30
+  },
+  "This quick cat found mouse yesterday": {
+    "<EOS>": 30
+  },
+  "This quick cat found tree": {
+    "today": 17,
+    "outside": 7,
+    "quickly": 4,
+    "carefully": 11,
+    "silently": 18,
+    "happily": 12,
+    "slowly": 4,
+    "gracefully": 9,
+    "easily": 11,
+    "yesterday": 9
+  },
+  "This quick cat found tree today": {
+    "<EOS>": 30
+  },
+  "This quick cat found tree outside": {
+    "<EOS>": 30
+  },
+  "This quick cat found tree quickly": {
+    "<EOS>": 30
+  },
+  "This quick cat found tree carefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found tree silently": {
+    "<EOS>": 30
+  },
+  "This quick cat found tree happily": {
+    "<EOS>": 30
+  },
+  "This quick cat found tree slowly": {
+    "<EOS>": 30
+  },
+  "This quick cat found tree gracefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found tree easily": {
+    "<EOS>": 30
+  },
+  "This quick cat found tree yesterday": {
+    "<EOS>": 30
+  },
+  "This quick cat found river": {
+    "today": 6,
+    "outside": 2,
+    "quickly": 3,
+    "carefully": 9,
+    "silently": 17,
+    "happily": 4,
+    "slowly": 16,
+    "gracefully": 15,
+    "easily": 20,
+    "yesterday": 8
+  },
+  "This quick cat found river today": {
+    "<EOS>": 30
+  },
+  "This quick cat found river outside": {
+    "<EOS>": 30
+  },
+  "This quick cat found river quickly": {
+    "<EOS>": 30
+  },
+  "This quick cat found river carefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found river silently": {
+    "<EOS>": 30
+  },
+  "This quick cat found river happily": {
+    "<EOS>": 30
+  },
+  "This quick cat found river slowly": {
+    "<EOS>": 30
+  },
+  "This quick cat found river gracefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found river easily": {
+    "<EOS>": 30
+  },
+  "This quick cat found river yesterday": {
+    "<EOS>": 30
+  },
+  "This quick cat found house": {
+    "today": 17,
+    "outside": 14,
+    "quickly": 9,
+    "carefully": 6,
+    "silently": 2,
+    "happily": 5,
+    "slowly": 15,
+    "gracefully": 9,
+    "easily": 7,
+    "yesterday": 18
+  },
+  "This quick cat found house today": {
+    "<EOS>": 30
+  },
+  "This quick cat found house outside": {
+    "<EOS>": 30
+  },
+  "This quick cat found house quickly": {
+    "<EOS>": 30
+  },
+  "This quick cat found house carefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found house silently": {
+    "<EOS>": 30
+  },
+  "This quick cat found house happily": {
+    "<EOS>": 30
+  },
+  "This quick cat found house slowly": {
+    "<EOS>": 30
+  },
+  "This quick cat found house gracefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found house easily": {
+    "<EOS>": 30
+  },
+  "This quick cat found house yesterday": {
+    "<EOS>": 30
+  },
+  "This quick cat found garden": {
+    "today": 3,
+    "outside": 19,
+    "quickly": 9,
+    "carefully": 5,
+    "silently": 16,
+    "happily": 6,
+    "slowly": 16,
+    "gracefully": 18,
+    "easily": 19,
+    "yesterday": 12
+  },
+  "This quick cat found garden today": {
+    "<EOS>": 30
+  },
+  "This quick cat found garden outside": {
+    "<EOS>": 30
+  },
+  "This quick cat found garden quickly": {
+    "<EOS>": 30
+  },
+  "This quick cat found garden carefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found garden silently": {
+    "<EOS>": 30
+  },
+  "This quick cat found garden happily": {
+    "<EOS>": 30
+  },
+  "This quick cat found garden slowly": {
+    "<EOS>": 30
+  },
+  "This quick cat found garden gracefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found garden easily": {
+    "<EOS>": 30
+  },
+  "This quick cat found garden yesterday": {
+    "<EOS>": 30
+  },
+  "This quick cat found bridge": {
+    "today": 18,
+    "outside": 15,
+    "quickly": 19,
+    "carefully": 16,
+    "silently": 7,
+    "happily": 17,
+    "slowly": 16,
+    "gracefully": 10,
+    "easily": 9,
+    "yesterday": 10
+  },
+  "This quick cat found bridge today": {
+    "<EOS>": 30
+  },
+  "This quick cat found bridge outside": {
+    "<EOS>": 30
+  },
+  "This quick cat found bridge quickly": {
+    "<EOS>": 30
+  },
+  "This quick cat found bridge carefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found bridge silently": {
+    "<EOS>": 30
+  },
+  "This quick cat found bridge happily": {
+    "<EOS>": 30
+  },
+  "This quick cat found bridge slowly": {
+    "<EOS>": 30
+  },
+  "This quick cat found bridge gracefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found bridge easily": {
+    "<EOS>": 30
+  },
+  "This quick cat found bridge yesterday": {
+    "<EOS>": 30
+  },
+  "This quick cat found castle": {
+    "today": 17,
+    "outside": 9,
+    "quickly": 10,
+    "carefully": 16,
+    "silently": 4,
+    "happily": 11,
+    "slowly": 9,
+    "gracefully": 10,
+    "easily": 12,
+    "yesterday": 12
+  },
+  "This quick cat found castle today": {
+    "<EOS>": 30
+  },
+  "This quick cat found castle outside": {
+    "<EOS>": 30
+  },
+  "This quick cat found castle quickly": {
+    "<EOS>": 30
+  },
+  "This quick cat found castle carefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found castle silently": {
+    "<EOS>": 30
+  },
+  "This quick cat found castle happily": {
+    "<EOS>": 30
+  },
+  "This quick cat found castle slowly": {
+    "<EOS>": 30
+  },
+  "This quick cat found castle gracefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found castle easily": {
+    "<EOS>": 30
+  },
+  "This quick cat found castle yesterday": {
+    "<EOS>": 30
+  },
+  "This quick cat found book": {
+    "today": 4,
+    "outside": 6,
+    "quickly": 6,
+    "carefully": 9,
+    "silently": 14,
+    "happily": 6,
+    "slowly": 8,
+    "gracefully": 4,
+    "easily": 15,
+    "yesterday": 15
+  },
+  "This quick cat found book today": {
+    "<EOS>": 30
+  },
+  "This quick cat found book outside": {
+    "<EOS>": 30
+  },
+  "This quick cat found book quickly": {
+    "<EOS>": 30
+  },
+  "This quick cat found book carefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found book silently": {
+    "<EOS>": 30
+  },
+  "This quick cat found book happily": {
+    "<EOS>": 30
+  },
+  "This quick cat found book slowly": {
+    "<EOS>": 30
+  },
+  "This quick cat found book gracefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found book easily": {
+    "<EOS>": 30
+  },
+  "This quick cat found book yesterday": {
+    "<EOS>": 30
+  },
+  "This quick cat found painting": {
+    "today": 19,
+    "outside": 16,
+    "quickly": 15,
+    "carefully": 3,
+    "silently": 8,
+    "happily": 15,
+    "slowly": 14,
+    "gracefully": 20,
+    "easily": 2,
+    "yesterday": 20
+  },
+  "This quick cat found painting today": {
+    "<EOS>": 30
+  },
+  "This quick cat found painting outside": {
+    "<EOS>": 30
+  },
+  "This quick cat found painting quickly": {
+    "<EOS>": 30
+  },
+  "This quick cat found painting carefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found painting silently": {
+    "<EOS>": 30
+  },
+  "This quick cat found painting happily": {
+    "<EOS>": 30
+  },
+  "This quick cat found painting slowly": {
+    "<EOS>": 30
+  },
+  "This quick cat found painting gracefully": {
+    "<EOS>": 30
+  },
+  "This quick cat found painting easily": {
+    "<EOS>": 30
+  },
+  "This quick cat found painting yesterday": {
+    "<EOS>": 30
+  },
+  "That": {
+    "quick": 14
+  },
+  "That quick": {
+    "cat": 17
+  },
+  "That quick cat": {
+    "found": 2
+  },
+  "That quick cat found": {
+    "rabbit": 13,
+    "mouse": 17,
+    "tree": 20,
+    "river": 12,
+    "house": 2,
+    "garden": 6,
+    "bridge": 5,
+    "castle": 4,
+    "book": 13,
+    "painting": 6
+  },
+  "That quick cat found rabbit": {
+    "today": 11,
+    "outside": 14,
+    "quickly": 15,
+    "carefully": 19,
+    "silently": 19,
+    "happily": 9,
+    "slowly": 17,
+    "gracefully": 9,
+    "easily": 10,
+    "yesterday": 15
+  },
+  "That quick cat found rabbit today": {
+    "<EOS>": 30
+  },
+  "That quick cat found rabbit outside": {
+    "<EOS>": 30
+  },
+  "That quick cat found rabbit quickly": {
+    "<EOS>": 30
+  },
+  "That quick cat found rabbit carefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found rabbit silently": {
+    "<EOS>": 30
+  },
+  "That quick cat found rabbit happily": {
+    "<EOS>": 30
+  },
+  "That quick cat found rabbit slowly": {
+    "<EOS>": 30
+  },
+  "That quick cat found rabbit gracefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found rabbit easily": {
+    "<EOS>": 30
+  },
+  "That quick cat found rabbit yesterday": {
+    "<EOS>": 30
+  },
+  "That quick cat found mouse": {
+    "today": 2,
+    "outside": 14,
+    "quickly": 12,
+    "carefully": 14,
+    "silently": 7,
+    "happily": 16,
+    "slowly": 6,
+    "gracefully": 19,
+    "easily": 2,
+    "yesterday": 14
+  },
+  "That quick cat found mouse today": {
+    "<EOS>": 30
+  },
+  "That quick cat found mouse outside": {
+    "<EOS>": 30
+  },
+  "That quick cat found mouse quickly": {
+    "<EOS>": 30
+  },
+  "That quick cat found mouse carefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found mouse silently": {
+    "<EOS>": 30
+  },
+  "That quick cat found mouse happily": {
+    "<EOS>": 30
+  },
+  "That quick cat found mouse slowly": {
+    "<EOS>": 30
+  },
+  "That quick cat found mouse gracefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found mouse easily": {
+    "<EOS>": 30
+  },
+  "That quick cat found mouse yesterday": {
+    "<EOS>": 30
+  },
+  "That quick cat found tree": {
+    "today": 20,
+    "outside": 2,
+    "quickly": 4,
+    "carefully": 15,
+    "silently": 6,
+    "happily": 16,
+    "slowly": 7,
+    "gracefully": 3,
+    "easily": 10,
+    "yesterday": 14
+  },
+  "That quick cat found tree today": {
+    "<EOS>": 30
+  },
+  "That quick cat found tree outside": {
+    "<EOS>": 30
+  },
+  "That quick cat found tree quickly": {
+    "<EOS>": 30
+  },
+  "That quick cat found tree carefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found tree silently": {
+    "<EOS>": 30
+  },
+  "That quick cat found tree happily": {
+    "<EOS>": 30
+  },
+  "That quick cat found tree slowly": {
+    "<EOS>": 30
+  },
+  "That quick cat found tree gracefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found tree easily": {
+    "<EOS>": 30
+  },
+  "That quick cat found tree yesterday": {
+    "<EOS>": 30
+  },
+  "That quick cat found river": {
+    "today": 8,
+    "outside": 16,
+    "quickly": 12,
+    "carefully": 12,
+    "silently": 14,
+    "happily": 10,
+    "slowly": 15,
+    "gracefully": 10,
+    "easily": 4,
+    "yesterday": 17
+  },
+  "That quick cat found river today": {
+    "<EOS>": 30
+  },
+  "That quick cat found river outside": {
+    "<EOS>": 30
+  },
+  "That quick cat found river quickly": {
+    "<EOS>": 30
+  },
+  "That quick cat found river carefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found river silently": {
+    "<EOS>": 30
+  },
+  "That quick cat found river happily": {
+    "<EOS>": 30
+  },
+  "That quick cat found river slowly": {
+    "<EOS>": 30
+  },
+  "That quick cat found river gracefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found river easily": {
+    "<EOS>": 30
+  },
+  "That quick cat found river yesterday": {
+    "<EOS>": 30
+  },
+  "That quick cat found house": {
+    "today": 19,
+    "outside": 3,
+    "quickly": 13,
+    "carefully": 9,
+    "silently": 4,
+    "happily": 3,
+    "slowly": 2,
+    "gracefully": 9,
+    "easily": 8,
+    "yesterday": 2
+  },
+  "That quick cat found house today": {
+    "<EOS>": 30
+  },
+  "That quick cat found house outside": {
+    "<EOS>": 30
+  },
+  "That quick cat found house quickly": {
+    "<EOS>": 30
+  },
+  "That quick cat found house carefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found house silently": {
+    "<EOS>": 30
+  },
+  "That quick cat found house happily": {
+    "<EOS>": 30
+  },
+  "That quick cat found house slowly": {
+    "<EOS>": 30
+  },
+  "That quick cat found house gracefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found house easily": {
+    "<EOS>": 30
+  },
+  "That quick cat found house yesterday": {
+    "<EOS>": 30
+  },
+  "That quick cat found garden": {
+    "today": 9,
+    "outside": 6,
+    "quickly": 17,
+    "carefully": 5,
+    "silently": 20,
+    "happily": 8,
+    "slowly": 16,
+    "gracefully": 10,
+    "easily": 13,
+    "yesterday": 7
+  },
+  "That quick cat found garden today": {
+    "<EOS>": 30
+  },
+  "That quick cat found garden outside": {
+    "<EOS>": 30
+  },
+  "That quick cat found garden quickly": {
+    "<EOS>": 30
+  },
+  "That quick cat found garden carefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found garden silently": {
+    "<EOS>": 30
+  },
+  "That quick cat found garden happily": {
+    "<EOS>": 30
+  },
+  "That quick cat found garden slowly": {
+    "<EOS>": 30
+  },
+  "That quick cat found garden gracefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found garden easily": {
+    "<EOS>": 30
+  },
+  "That quick cat found garden yesterday": {
+    "<EOS>": 30
+  },
+  "That quick cat found bridge": {
+    "today": 7,
+    "outside": 11,
+    "quickly": 5,
+    "carefully": 20,
+    "silently": 2,
+    "happily": 11,
+    "slowly": 20,
+    "gracefully": 14,
+    "easily": 14,
+    "yesterday": 8
+  },
+  "That quick cat found bridge today": {
+    "<EOS>": 30
+  },
+  "That quick cat found bridge outside": {
+    "<EOS>": 30
+  },
+  "That quick cat found bridge quickly": {
+    "<EOS>": 30
+  },
+  "That quick cat found bridge carefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found bridge silently": {
+    "<EOS>": 30
+  },
+  "That quick cat found bridge happily": {
+    "<EOS>": 30
+  },
+  "That quick cat found bridge slowly": {
+    "<EOS>": 30
+  },
+  "That quick cat found bridge gracefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found bridge easily": {
+    "<EOS>": 30
+  },
+  "That quick cat found bridge yesterday": {
+    "<EOS>": 30
+  },
+  "That quick cat found castle": {
+    "today": 20,
+    "outside": 9,
+    "quickly": 5,
+    "carefully": 11,
+    "silently": 5,
+    "happily": 20,
+    "slowly": 3,
+    "gracefully": 13,
+    "easily": 19,
+    "yesterday": 15
+  },
+  "That quick cat found castle today": {
+    "<EOS>": 30
+  },
+  "That quick cat found castle outside": {
+    "<EOS>": 30
+  },
+  "That quick cat found castle quickly": {
+    "<EOS>": 30
+  },
+  "That quick cat found castle carefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found castle silently": {
+    "<EOS>": 30
+  },
+  "That quick cat found castle happily": {
+    "<EOS>": 30
+  },
+  "That quick cat found castle slowly": {
+    "<EOS>": 30
+  },
+  "That quick cat found castle gracefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found castle easily": {
+    "<EOS>": 30
+  },
+  "That quick cat found castle yesterday": {
+    "<EOS>": 30
+  },
+  "That quick cat found book": {
+    "today": 4,
+    "outside": 18,
+    "quickly": 12,
+    "carefully": 2,
+    "silently": 15,
+    "happily": 17,
+    "slowly": 5,
+    "gracefully": 15,
+    "easily": 13,
+    "yesterday": 16
+  },
+  "That quick cat found book today": {
+    "<EOS>": 30
+  },
+  "That quick cat found book outside": {
+    "<EOS>": 30
+  },
+  "That quick cat found book quickly": {
+    "<EOS>": 30
+  },
+  "That quick cat found book carefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found book silently": {
+    "<EOS>": 30
+  },
+  "That quick cat found book happily": {
+    "<EOS>": 30
+  },
+  "That quick cat found book slowly": {
+    "<EOS>": 30
+  },
+  "That quick cat found book gracefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found book easily": {
+    "<EOS>": 30
+  },
+  "That quick cat found book yesterday": {
+    "<EOS>": 30
+  },
+  "That quick cat found painting": {
+    "today": 15,
+    "outside": 7,
+    "quickly": 18,
+    "carefully": 10,
+    "silently": 19,
+    "happily": 17,
+    "slowly": 16,
+    "gracefully": 15,
+    "easily": 20,
+    "yesterday": 10
+  },
+  "That quick cat found painting today": {
+    "<EOS>": 30
+  },
+  "That quick cat found painting outside": {
+    "<EOS>": 30
+  },
+  "That quick cat found painting quickly": {
+    "<EOS>": 30
+  },
+  "That quick cat found painting carefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found painting silently": {
+    "<EOS>": 30
+  },
+  "That quick cat found painting happily": {
+    "<EOS>": 30
+  },
+  "That quick cat found painting slowly": {
+    "<EOS>": 30
+  },
+  "That quick cat found painting gracefully": {
+    "<EOS>": 30
+  },
+  "That quick cat found painting easily": {
+    "<EOS>": 30
+  },
+  "That quick cat found painting yesterday": {
+    "<EOS>": 30
+  },
+  "One": {
+    "quick": 12
+  },
+  "One quick": {
+    "cat": 9
+  },
+  "One quick cat": {
+    "found": 4
+  },
+  "One quick cat found": {
+    "rabbit": 10,
+    "mouse": 17,
+    "tree": 4,
+    "river": 11,
+    "house": 15,
+    "garden": 12,
+    "bridge": 5,
+    "castle": 3,
+    "book": 17,
+    "painting": 4
+  },
+  "One quick cat found rabbit": {
+    "today": 16,
+    "outside": 9,
+    "quickly": 16,
+    "carefully": 20,
+    "silently": 14,
+    "happily": 12,
+    "slowly": 2,
+    "gracefully": 17,
+    "easily": 12,
+    "yesterday": 7
+  },
+  "One quick cat found rabbit today": {
+    "<EOS>": 30
+  },
+  "One quick cat found rabbit outside": {
+    "<EOS>": 30
+  },
+  "One quick cat found rabbit quickly": {
+    "<EOS>": 30
+  },
+  "One quick cat found rabbit carefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found rabbit silently": {
+    "<EOS>": 30
+  },
+  "One quick cat found rabbit happily": {
+    "<EOS>": 30
+  },
+  "One quick cat found rabbit slowly": {
+    "<EOS>": 30
+  },
+  "One quick cat found rabbit gracefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found rabbit easily": {
+    "<EOS>": 30
+  },
+  "One quick cat found rabbit yesterday": {
+    "<EOS>": 30
+  },
+  "One quick cat found mouse": {
+    "today": 8,
+    "outside": 13,
+    "quickly": 10,
+    "carefully": 12,
+    "silently": 10,
+    "happily": 10,
+    "slowly": 19,
+    "gracefully": 2,
+    "easily": 18,
+    "yesterday": 8
+  },
+  "One quick cat found mouse today": {
+    "<EOS>": 30
+  },
+  "One quick cat found mouse outside": {
+    "<EOS>": 30
+  },
+  "One quick cat found mouse quickly": {
+    "<EOS>": 30
+  },
+  "One quick cat found mouse carefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found mouse silently": {
+    "<EOS>": 30
+  },
+  "One quick cat found mouse happily": {
+    "<EOS>": 30
+  },
+  "One quick cat found mouse slowly": {
+    "<EOS>": 30
+  },
+  "One quick cat found mouse gracefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found mouse easily": {
+    "<EOS>": 30
+  },
+  "One quick cat found mouse yesterday": {
+    "<EOS>": 30
+  },
+  "One quick cat found tree": {
+    "today": 9,
+    "outside": 15,
+    "quickly": 17,
+    "carefully": 19,
+    "silently": 9,
+    "happily": 17,
+    "slowly": 17,
+    "gracefully": 16,
+    "easily": 2,
+    "yesterday": 4
+  },
+  "One quick cat found tree today": {
+    "<EOS>": 30
+  },
+  "One quick cat found tree outside": {
+    "<EOS>": 30
+  },
+  "One quick cat found tree quickly": {
+    "<EOS>": 30
+  },
+  "One quick cat found tree carefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found tree silently": {
+    "<EOS>": 30
+  },
+  "One quick cat found tree happily": {
+    "<EOS>": 30
+  },
+  "One quick cat found tree slowly": {
+    "<EOS>": 30
+  },
+  "One quick cat found tree gracefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found tree easily": {
+    "<EOS>": 30
+  },
+  "One quick cat found tree yesterday": {
+    "<EOS>": 30
+  },
+  "One quick cat found river": {
+    "today": 9,
+    "outside": 14,
+    "quickly": 9,
+    "carefully": 11,
+    "silently": 20,
+    "happily": 13,
+    "slowly": 17,
+    "gracefully": 19,
+    "easily": 18,
+    "yesterday": 13
+  },
+  "One quick cat found river today": {
+    "<EOS>": 30
+  },
+  "One quick cat found river outside": {
+    "<EOS>": 30
+  },
+  "One quick cat found river quickly": {
+    "<EOS>": 30
+  },
+  "One quick cat found river carefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found river silently": {
+    "<EOS>": 30
+  },
+  "One quick cat found river happily": {
+    "<EOS>": 30
+  },
+  "One quick cat found river slowly": {
+    "<EOS>": 30
+  },
+  "One quick cat found river gracefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found river easily": {
+    "<EOS>": 30
+  },
+  "One quick cat found river yesterday": {
+    "<EOS>": 30
+  },
+  "One quick cat found house": {
+    "today": 19,
+    "outside": 12,
+    "quickly": 13,
+    "carefully": 16,
+    "silently": 10,
+    "happily": 11,
+    "slowly": 10,
+    "gracefully": 9,
+    "easily": 5,
+    "yesterday": 8
+  },
+  "One quick cat found house today": {
+    "<EOS>": 30
+  },
+  "One quick cat found house outside": {
+    "<EOS>": 30
+  },
+  "One quick cat found house quickly": {
+    "<EOS>": 30
+  },
+  "One quick cat found house carefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found house silently": {
+    "<EOS>": 30
+  },
+  "One quick cat found house happily": {
+    "<EOS>": 30
+  },
+  "One quick cat found house slowly": {
+    "<EOS>": 30
+  },
+  "One quick cat found house gracefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found house easily": {
+    "<EOS>": 30
+  },
+  "One quick cat found house yesterday": {
+    "<EOS>": 30
+  },
+  "One quick cat found garden": {
+    "today": 5,
+    "outside": 19,
+    "quickly": 7,
+    "carefully": 8,
+    "silently": 8,
+    "happily": 17,
+    "slowly": 10,
+    "gracefully": 20,
+    "easily": 18,
+    "yesterday": 11
+  },
+  "One quick cat found garden today": {
+    "<EOS>": 30
+  },
+  "One quick cat found garden outside": {
+    "<EOS>": 30
+  },
+  "One quick cat found garden quickly": {
+    "<EOS>": 30
+  },
+  "One quick cat found garden carefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found garden silently": {
+    "<EOS>": 30
+  },
+  "One quick cat found garden happily": {
+    "<EOS>": 30
+  },
+  "One quick cat found garden slowly": {
+    "<EOS>": 30
+  },
+  "One quick cat found garden gracefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found garden easily": {
+    "<EOS>": 30
+  },
+  "One quick cat found garden yesterday": {
+    "<EOS>": 30
+  },
+  "One quick cat found bridge": {
+    "today": 8,
+    "outside": 11,
+    "quickly": 9,
+    "carefully": 13,
+    "silently": 7,
+    "happily": 11,
+    "slowly": 2,
+    "gracefully": 19,
+    "easily": 6,
+    "yesterday": 10
+  },
+  "One quick cat found bridge today": {
+    "<EOS>": 30
+  },
+  "One quick cat found bridge outside": {
+    "<EOS>": 30
+  },
+  "One quick cat found bridge quickly": {
+    "<EOS>": 30
+  },
+  "One quick cat found bridge carefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found bridge silently": {
+    "<EOS>": 30
+  },
+  "One quick cat found bridge happily": {
+    "<EOS>": 30
+  },
+  "One quick cat found bridge slowly": {
+    "<EOS>": 30
+  },
+  "One quick cat found bridge gracefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found bridge easily": {
+    "<EOS>": 30
+  },
+  "One quick cat found bridge yesterday": {
+    "<EOS>": 30
+  },
+  "One quick cat found castle": {
+    "today": 3,
+    "outside": 19,
+    "quickly": 11,
+    "carefully": 6,
+    "silently": 17,
+    "happily": 5,
+    "slowly": 2,
+    "gracefully": 20,
+    "easily": 11,
+    "yesterday": 17
+  },
+  "One quick cat found castle today": {
+    "<EOS>": 30
+  },
+  "One quick cat found castle outside": {
+    "<EOS>": 30
+  },
+  "One quick cat found castle quickly": {
+    "<EOS>": 30
+  },
+  "One quick cat found castle carefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found castle silently": {
+    "<EOS>": 30
+  },
+  "One quick cat found castle happily": {
+    "<EOS>": 30
+  },
+  "One quick cat found castle slowly": {
+    "<EOS>": 30
+  },
+  "One quick cat found castle gracefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found castle easily": {
+    "<EOS>": 30
+  },
+  "One quick cat found castle yesterday": {
+    "<EOS>": 30
+  },
+  "One quick cat found book": {
+    "today": 16,
+    "outside": 12,
+    "quickly": 7,
+    "carefully": 3,
+    "silently": 10,
+    "happily": 17,
+    "slowly": 5,
+    "gracefully": 4,
+    "easily": 14,
+    "yesterday": 17
+  },
+  "One quick cat found book today": {
+    "<EOS>": 30
+  },
+  "One quick cat found book outside": {
+    "<EOS>": 30
+  },
+  "One quick cat found book quickly": {
+    "<EOS>": 30
+  },
+  "One quick cat found book carefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found book silently": {
+    "<EOS>": 30
+  },
+  "One quick cat found book happily": {
+    "<EOS>": 30
+  },
+  "One quick cat found book slowly": {
+    "<EOS>": 30
+  },
+  "One quick cat found book gracefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found book easily": {
+    "<EOS>": 30
+  },
+  "One quick cat found book yesterday": {
+    "<EOS>": 30
+  },
+  "One quick cat found painting": {
+    "today": 20,
+    "outside": 3,
+    "quickly": 6,
+    "carefully": 6,
+    "silently": 20,
+    "happily": 11,
+    "slowly": 4,
+    "gracefully": 9,
+    "easily": 5,
+    "yesterday": 19
+  },
+  "One quick cat found painting today": {
+    "<EOS>": 30
+  },
+  "One quick cat found painting outside": {
+    "<EOS>": 30
+  },
+  "One quick cat found painting quickly": {
+    "<EOS>": 30
+  },
+  "One quick cat found painting carefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found painting silently": {
+    "<EOS>": 30
+  },
+  "One quick cat found painting happily": {
+    "<EOS>": 30
+  },
+  "One quick cat found painting slowly": {
+    "<EOS>": 30
+  },
+  "One quick cat found painting gracefully": {
+    "<EOS>": 30
+  },
+  "One quick cat found painting easily": {
+    "<EOS>": 30
+  },
+  "One quick cat found painting yesterday": {
+    "<EOS>": 30
+  },
+  "Each": {
+    "quick": 15
+  },
+  "Each quick": {
+    "cat": 9
+  },
+  "Each quick cat": {
+    "found": 18
+  },
+  "Each quick cat found": {
+    "rabbit": 14,
+    "mouse": 8,
+    "tree": 16,
+    "river": 20,
+    "house": 7,
+    "garden": 19,
+    "bridge": 20,
+    "castle": 7,
+    "book": 7,
+    "painting": 10
+  },
+  "Each quick cat found rabbit": {
+    "today": 16,
+    "outside": 16,
+    "quickly": 11,
+    "carefully": 20,
+    "silently": 15,
+    "happily": 11,
+    "slowly": 20,
+    "gracefully": 3,
+    "easily": 5,
+    "yesterday": 8
+  },
+  "Each quick cat found rabbit today": {
+    "<EOS>": 30
+  },
+  "Each quick cat found rabbit outside": {
+    "<EOS>": 30
+  },
+  "Each quick cat found rabbit quickly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found rabbit carefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found rabbit silently": {
+    "<EOS>": 30
+  },
+  "Each quick cat found rabbit happily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found rabbit slowly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found rabbit gracefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found rabbit easily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found rabbit yesterday": {
+    "<EOS>": 30
+  },
+  "Each quick cat found mouse": {
+    "today": 10,
+    "outside": 4,
+    "quickly": 7,
+    "carefully": 9,
+    "silently": 7,
+    "happily": 19,
+    "slowly": 4,
+    "gracefully": 7,
+    "easily": 2,
+    "yesterday": 15
+  },
+  "Each quick cat found mouse today": {
+    "<EOS>": 30
+  },
+  "Each quick cat found mouse outside": {
+    "<EOS>": 30
+  },
+  "Each quick cat found mouse quickly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found mouse carefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found mouse silently": {
+    "<EOS>": 30
+  },
+  "Each quick cat found mouse happily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found mouse slowly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found mouse gracefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found mouse easily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found mouse yesterday": {
+    "<EOS>": 30
+  },
+  "Each quick cat found tree": {
+    "today": 17,
+    "outside": 11,
+    "quickly": 3,
+    "carefully": 9,
+    "silently": 11,
+    "happily": 11,
+    "slowly": 16,
+    "gracefully": 4,
+    "easily": 9,
+    "yesterday": 10
+  },
+  "Each quick cat found tree today": {
+    "<EOS>": 30
+  },
+  "Each quick cat found tree outside": {
+    "<EOS>": 30
+  },
+  "Each quick cat found tree quickly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found tree carefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found tree silently": {
+    "<EOS>": 30
+  },
+  "Each quick cat found tree happily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found tree slowly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found tree gracefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found tree easily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found tree yesterday": {
+    "<EOS>": 30
+  },
+  "Each quick cat found river": {
+    "today": 8,
+    "outside": 15,
+    "quickly": 5,
+    "carefully": 19,
+    "silently": 9,
+    "happily": 6,
+    "slowly": 10,
+    "gracefully": 6,
+    "easily": 4,
+    "yesterday": 3
+  },
+  "Each quick cat found river today": {
+    "<EOS>": 30
+  },
+  "Each quick cat found river outside": {
+    "<EOS>": 30
+  },
+  "Each quick cat found river quickly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found river carefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found river silently": {
+    "<EOS>": 30
+  },
+  "Each quick cat found river happily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found river slowly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found river gracefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found river easily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found river yesterday": {
+    "<EOS>": 30
+  },
+  "Each quick cat found house": {
+    "today": 11,
+    "outside": 20,
+    "quickly": 11,
+    "carefully": 16,
+    "silently": 5,
+    "happily": 16,
+    "slowly": 11,
+    "gracefully": 14,
+    "easily": 10,
+    "yesterday": 18
+  },
+  "Each quick cat found house today": {
+    "<EOS>": 30
+  },
+  "Each quick cat found house outside": {
+    "<EOS>": 30
+  },
+  "Each quick cat found house quickly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found house carefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found house silently": {
+    "<EOS>": 30
+  },
+  "Each quick cat found house happily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found house slowly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found house gracefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found house easily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found house yesterday": {
+    "<EOS>": 30
+  },
+  "Each quick cat found garden": {
+    "today": 17,
+    "outside": 16,
+    "quickly": 4,
+    "carefully": 3,
+    "silently": 15,
+    "happily": 12,
+    "slowly": 10,
+    "gracefully": 2,
+    "easily": 4,
+    "yesterday": 9
+  },
+  "Each quick cat found garden today": {
+    "<EOS>": 30
+  },
+  "Each quick cat found garden outside": {
+    "<EOS>": 30
+  },
+  "Each quick cat found garden quickly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found garden carefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found garden silently": {
+    "<EOS>": 30
+  },
+  "Each quick cat found garden happily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found garden slowly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found garden gracefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found garden easily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found garden yesterday": {
+    "<EOS>": 30
+  },
+  "Each quick cat found bridge": {
+    "today": 20,
+    "outside": 2,
+    "quickly": 10,
+    "carefully": 20,
+    "silently": 3,
+    "happily": 7,
+    "slowly": 17,
+    "gracefully": 18,
+    "easily": 16,
+    "yesterday": 10
+  },
+  "Each quick cat found bridge today": {
+    "<EOS>": 30
+  },
+  "Each quick cat found bridge outside": {
+    "<EOS>": 30
+  },
+  "Each quick cat found bridge quickly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found bridge carefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found bridge silently": {
+    "<EOS>": 30
+  },
+  "Each quick cat found bridge happily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found bridge slowly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found bridge gracefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found bridge easily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found bridge yesterday": {
+    "<EOS>": 30
+  },
+  "Each quick cat found castle": {
+    "today": 20,
+    "outside": 15,
+    "quickly": 17,
+    "carefully": 4,
+    "silently": 17,
+    "happily": 13,
+    "slowly": 15,
+    "gracefully": 12,
+    "easily": 12,
+    "yesterday": 5
+  },
+  "Each quick cat found castle today": {
+    "<EOS>": 30
+  },
+  "Each quick cat found castle outside": {
+    "<EOS>": 30
+  },
+  "Each quick cat found castle quickly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found castle carefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found castle silently": {
+    "<EOS>": 30
+  },
+  "Each quick cat found castle happily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found castle slowly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found castle gracefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found castle easily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found castle yesterday": {
+    "<EOS>": 30
+  },
+  "Each quick cat found book": {
+    "today": 12,
+    "outside": 15,
+    "quickly": 17,
+    "carefully": 11,
+    "silently": 14,
+    "happily": 19,
+    "slowly": 3,
+    "gracefully": 16,
+    "easily": 4,
+    "yesterday": 12
+  },
+  "Each quick cat found book today": {
+    "<EOS>": 30
+  },
+  "Each quick cat found book outside": {
+    "<EOS>": 30
+  },
+  "Each quick cat found book quickly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found book carefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found book silently": {
+    "<EOS>": 30
+  },
+  "Each quick cat found book happily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found book slowly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found book gracefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found book easily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found book yesterday": {
+    "<EOS>": 30
+  },
+  "Each quick cat found painting": {
+    "today": 12,
+    "outside": 5,
+    "quickly": 14,
+    "carefully": 18,
+    "silently": 2,
+    "happily": 19,
+    "slowly": 16,
+    "gracefully": 15,
+    "easily": 3,
+    "yesterday": 8
+  },
+  "Each quick cat found painting today": {
+    "<EOS>": 30
+  },
+  "Each quick cat found painting outside": {
+    "<EOS>": 30
+  },
+  "Each quick cat found painting quickly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found painting carefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found painting silently": {
+    "<EOS>": 30
+  },
+  "Each quick cat found painting happily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found painting slowly": {
+    "<EOS>": 30
+  },
+  "Each quick cat found painting gracefully": {
+    "<EOS>": 30
+  },
+  "Each quick cat found painting easily": {
+    "<EOS>": 30
+  },
+  "Each quick cat found painting yesterday": {
+    "<EOS>": 30
+  },
+  "My": {
+    "quick": 18
+  },
+  "My quick": {
+    "cat": 13
+  },
+  "My quick cat": {
+    "found": 17
+  },
+  "My quick cat found": {
+    "rabbit": 16,
+    "mouse": 9,
+    "tree": 5,
+    "river": 19,
+    "house": 10,
+    "garden": 13,
+    "bridge": 9,
+    "castle": 18,
+    "book": 6,
+    "painting": 17
+  },
+  "My quick cat found rabbit": {
+    "today": 3,
+    "outside": 8,
+    "quickly": 10,
+    "carefully": 19,
+    "silently": 6,
+    "happily": 11,
+    "slowly": 16,
+    "gracefully": 17,
+    "easily": 5,
+    "yesterday": 2
+  },
+  "My quick cat found rabbit today": {
+    "<EOS>": 30
+  },
+  "My quick cat found rabbit outside": {
+    "<EOS>": 30
+  },
+  "My quick cat found rabbit quickly": {
+    "<EOS>": 30
+  },
+  "My quick cat found rabbit carefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found rabbit silently": {
+    "<EOS>": 30
+  },
+  "My quick cat found rabbit happily": {
+    "<EOS>": 30
+  },
+  "My quick cat found rabbit slowly": {
+    "<EOS>": 30
+  },
+  "My quick cat found rabbit gracefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found rabbit easily": {
+    "<EOS>": 30
+  },
+  "My quick cat found rabbit yesterday": {
+    "<EOS>": 30
+  },
+  "My quick cat found mouse": {
+    "today": 7,
+    "outside": 11,
+    "quickly": 19,
+    "carefully": 2,
+    "silently": 19,
+    "happily": 15,
+    "slowly": 4,
+    "gracefully": 9,
+    "easily": 5,
+    "yesterday": 16
+  },
+  "My quick cat found mouse today": {
+    "<EOS>": 30
+  },
+  "My quick cat found mouse outside": {
+    "<EOS>": 30
+  },
+  "My quick cat found mouse quickly": {
+    "<EOS>": 30
+  },
+  "My quick cat found mouse carefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found mouse silently": {
+    "<EOS>": 30
+  },
+  "My quick cat found mouse happily": {
+    "<EOS>": 30
+  },
+  "My quick cat found mouse slowly": {
+    "<EOS>": 30
+  },
+  "My quick cat found mouse gracefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found mouse easily": {
+    "<EOS>": 30
+  },
+  "My quick cat found mouse yesterday": {
+    "<EOS>": 30
+  },
+  "My quick cat found tree": {
+    "today": 6,
+    "outside": 17,
+    "quickly": 11,
+    "carefully": 18,
+    "silently": 10,
+    "happily": 15,
+    "slowly": 17,
+    "gracefully": 17,
+    "easily": 9,
+    "yesterday": 16
+  },
+  "My quick cat found tree today": {
+    "<EOS>": 30
+  },
+  "My quick cat found tree outside": {
+    "<EOS>": 30
+  },
+  "My quick cat found tree quickly": {
+    "<EOS>": 30
+  },
+  "My quick cat found tree carefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found tree silently": {
+    "<EOS>": 30
+  },
+  "My quick cat found tree happily": {
+    "<EOS>": 30
+  },
+  "My quick cat found tree slowly": {
+    "<EOS>": 30
+  },
+  "My quick cat found tree gracefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found tree easily": {
+    "<EOS>": 30
+  },
+  "My quick cat found tree yesterday": {
+    "<EOS>": 30
+  },
+  "My quick cat found river": {
+    "today": 6,
+    "outside": 14,
+    "quickly": 8,
+    "carefully": 18,
+    "silently": 6,
+    "happily": 4,
+    "slowly": 10,
+    "gracefully": 15,
+    "easily": 12,
+    "yesterday": 18
+  },
+  "My quick cat found river today": {
+    "<EOS>": 30
+  },
+  "My quick cat found river outside": {
+    "<EOS>": 30
+  },
+  "My quick cat found river quickly": {
+    "<EOS>": 30
+  },
+  "My quick cat found river carefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found river silently": {
+    "<EOS>": 30
+  },
+  "My quick cat found river happily": {
+    "<EOS>": 30
+  },
+  "My quick cat found river slowly": {
+    "<EOS>": 30
+  },
+  "My quick cat found river gracefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found river easily": {
+    "<EOS>": 30
+  },
+  "My quick cat found river yesterday": {
+    "<EOS>": 30
+  },
+  "My quick cat found house": {
+    "today": 2,
+    "outside": 11,
+    "quickly": 11,
+    "carefully": 20,
+    "silently": 20,
+    "happily": 17,
+    "slowly": 6,
+    "gracefully": 16,
+    "easily": 19,
+    "yesterday": 17
+  },
+  "My quick cat found house today": {
+    "<EOS>": 30
+  },
+  "My quick cat found house outside": {
+    "<EOS>": 30
+  },
+  "My quick cat found house quickly": {
+    "<EOS>": 30
+  },
+  "My quick cat found house carefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found house silently": {
+    "<EOS>": 30
+  },
+  "My quick cat found house happily": {
+    "<EOS>": 30
+  },
+  "My quick cat found house slowly": {
+    "<EOS>": 30
+  },
+  "My quick cat found house gracefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found house easily": {
+    "<EOS>": 30
+  },
+  "My quick cat found house yesterday": {
+    "<EOS>": 30
+  },
+  "My quick cat found garden": {
+    "today": 12,
+    "outside": 19,
+    "quickly": 19,
+    "carefully": 14,
+    "silently": 16,
+    "happily": 12,
+    "slowly": 8,
+    "gracefully": 9,
+    "easily": 20,
+    "yesterday": 14
+  },
+  "My quick cat found garden today": {
+    "<EOS>": 30
+  },
+  "My quick cat found garden outside": {
+    "<EOS>": 30
+  },
+  "My quick cat found garden quickly": {
+    "<EOS>": 30
+  },
+  "My quick cat found garden carefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found garden silently": {
+    "<EOS>": 30
+  },
+  "My quick cat found garden happily": {
+    "<EOS>": 30
+  },
+  "My quick cat found garden slowly": {
+    "<EOS>": 30
+  },
+  "My quick cat found garden gracefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found garden easily": {
+    "<EOS>": 30
+  },
+  "My quick cat found garden yesterday": {
+    "<EOS>": 30
+  },
+  "My quick cat found bridge": {
+    "today": 15,
+    "outside": 3,
+    "quickly": 12,
+    "carefully": 17,
+    "silently": 14,
+    "happily": 14,
+    "slowly": 6,
+    "gracefully": 17,
+    "easily": 3,
+    "yesterday": 6
+  },
+  "My quick cat found bridge today": {
+    "<EOS>": 30
+  },
+  "My quick cat found bridge outside": {
+    "<EOS>": 30
+  },
+  "My quick cat found bridge quickly": {
+    "<EOS>": 30
+  },
+  "My quick cat found bridge carefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found bridge silently": {
+    "<EOS>": 30
+  },
+  "My quick cat found bridge happily": {
+    "<EOS>": 30
+  },
+  "My quick cat found bridge slowly": {
+    "<EOS>": 30
+  },
+  "My quick cat found bridge gracefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found bridge easily": {
+    "<EOS>": 30
+  },
+  "My quick cat found bridge yesterday": {
+    "<EOS>": 30
+  },
+  "My quick cat found castle": {
+    "today": 20,
+    "outside": 12,
+    "quickly": 5,
+    "carefully": 16,
+    "silently": 5,
+    "happily": 18,
+    "slowly": 16,
+    "gracefully": 2,
+    "easily": 6,
+    "yesterday": 15
+  },
+  "My quick cat found castle today": {
+    "<EOS>": 30
+  },
+  "My quick cat found castle outside": {
+    "<EOS>": 30
+  },
+  "My quick cat found castle quickly": {
+    "<EOS>": 30
+  },
+  "My quick cat found castle carefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found castle silently": {
+    "<EOS>": 30
+  },
+  "My quick cat found castle happily": {
+    "<EOS>": 30
+  },
+  "My quick cat found castle slowly": {
+    "<EOS>": 30
+  },
+  "My quick cat found castle gracefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found castle easily": {
+    "<EOS>": 30
+  },
+  "My quick cat found castle yesterday": {
+    "<EOS>": 30
+  },
+  "My quick cat found book": {
+    "today": 4,
+    "outside": 17,
+    "quickly": 10,
+    "carefully": 12,
+    "silently": 14,
+    "happily": 4,
+    "slowly": 12,
+    "gracefully": 19,
+    "easily": 14,
+    "yesterday": 12
+  },
+  "My quick cat found book today": {
+    "<EOS>": 30
+  },
+  "My quick cat found book outside": {
+    "<EOS>": 30
+  },
+  "My quick cat found book quickly": {
+    "<EOS>": 30
+  },
+  "My quick cat found book carefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found book silently": {
+    "<EOS>": 30
+  },
+  "My quick cat found book happily": {
+    "<EOS>": 30
+  },
+  "My quick cat found book slowly": {
+    "<EOS>": 30
+  },
+  "My quick cat found book gracefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found book easily": {
+    "<EOS>": 30
+  },
+  "My quick cat found book yesterday": {
+    "<EOS>": 30
+  },
+  "My quick cat found painting": {
+    "today": 19,
+    "outside": 3,
+    "quickly": 4,
+    "carefully": 9,
+    "silently": 11,
+    "happily": 9,
+    "slowly": 4,
+    "gracefully": 15,
+    "easily": 5,
+    "yesterday": 5
+  },
+  "My quick cat found painting today": {
+    "<EOS>": 30
+  },
+  "My quick cat found painting outside": {
+    "<EOS>": 30
+  },
+  "My quick cat found painting quickly": {
+    "<EOS>": 30
+  },
+  "My quick cat found painting carefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found painting silently": {
+    "<EOS>": 30
+  },
+  "My quick cat found painting happily": {
+    "<EOS>": 30
+  },
+  "My quick cat found painting slowly": {
+    "<EOS>": 30
+  },
+  "My quick cat found painting gracefully": {
+    "<EOS>": 30
+  },
+  "My quick cat found painting easily": {
+    "<EOS>": 30
+  },
+  "My quick cat found painting yesterday": {
+    "<EOS>": 30
+  },
+  "Your": {
+    "quick": 16
+  },
+  "Your quick": {
+    "cat": 7
+  },
+  "Your quick cat": {
+    "found": 11
+  },
+  "Your quick cat found": {
+    "rabbit": 2,
+    "mouse": 15,
+    "tree": 9,
+    "river": 16,
+    "house": 5,
+    "garden": 2,
+    "bridge": 5,
+    "castle": 15,
+    "book": 17,
+    "painting": 4
+  },
+  "Your quick cat found rabbit": {
+    "today": 3,
+    "outside": 12,
+    "quickly": 3,
+    "carefully": 11,
+    "silently": 13,
+    "happily": 13,
+    "slowly": 15,
+    "gracefully": 6,
+    "easily": 9,
+    "yesterday": 18
+  },
+  "Your quick cat found rabbit today": {
+    "<EOS>": 30
+  },
+  "Your quick cat found rabbit outside": {
+    "<EOS>": 30
+  },
+  "Your quick cat found rabbit quickly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found rabbit carefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found rabbit silently": {
+    "<EOS>": 30
+  },
+  "Your quick cat found rabbit happily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found rabbit slowly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found rabbit gracefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found rabbit easily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found rabbit yesterday": {
+    "<EOS>": 30
+  },
+  "Your quick cat found mouse": {
+    "today": 20,
+    "outside": 7,
+    "quickly": 7,
+    "carefully": 7,
+    "silently": 4,
+    "happily": 14,
+    "slowly": 9,
+    "gracefully": 17,
+    "easily": 20,
+    "yesterday": 6
+  },
+  "Your quick cat found mouse today": {
+    "<EOS>": 30
+  },
+  "Your quick cat found mouse outside": {
+    "<EOS>": 30
+  },
+  "Your quick cat found mouse quickly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found mouse carefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found mouse silently": {
+    "<EOS>": 30
+  },
+  "Your quick cat found mouse happily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found mouse slowly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found mouse gracefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found mouse easily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found mouse yesterday": {
+    "<EOS>": 30
+  },
+  "Your quick cat found tree": {
+    "today": 16,
+    "outside": 10,
+    "quickly": 16,
+    "carefully": 10,
+    "silently": 2,
+    "happily": 16,
+    "slowly": 11,
+    "gracefully": 19,
+    "easily": 7,
+    "yesterday": 4
+  },
+  "Your quick cat found tree today": {
+    "<EOS>": 30
+  },
+  "Your quick cat found tree outside": {
+    "<EOS>": 30
+  },
+  "Your quick cat found tree quickly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found tree carefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found tree silently": {
+    "<EOS>": 30
+  },
+  "Your quick cat found tree happily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found tree slowly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found tree gracefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found tree easily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found tree yesterday": {
+    "<EOS>": 30
+  },
+  "Your quick cat found river": {
+    "today": 13,
+    "outside": 20,
+    "quickly": 11,
+    "carefully": 15,
+    "silently": 10,
+    "happily": 16,
+    "slowly": 11,
+    "gracefully": 8,
+    "easily": 14,
+    "yesterday": 17
+  },
+  "Your quick cat found river today": {
+    "<EOS>": 30
+  },
+  "Your quick cat found river outside": {
+    "<EOS>": 30
+  },
+  "Your quick cat found river quickly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found river carefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found river silently": {
+    "<EOS>": 30
+  },
+  "Your quick cat found river happily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found river slowly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found river gracefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found river easily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found river yesterday": {
+    "<EOS>": 30
+  },
+  "Your quick cat found house": {
+    "today": 9,
+    "outside": 14,
+    "quickly": 20,
+    "carefully": 13,
+    "silently": 20,
+    "happily": 11,
+    "slowly": 11,
+    "gracefully": 2,
+    "easily": 14,
+    "yesterday": 10
+  },
+  "Your quick cat found house today": {
+    "<EOS>": 30
+  },
+  "Your quick cat found house outside": {
+    "<EOS>": 30
+  },
+  "Your quick cat found house quickly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found house carefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found house silently": {
+    "<EOS>": 30
+  },
+  "Your quick cat found house happily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found house slowly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found house gracefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found house easily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found house yesterday": {
+    "<EOS>": 30
+  },
+  "Your quick cat found garden": {
+    "today": 20,
+    "outside": 3,
+    "quickly": 17,
+    "carefully": 11,
+    "silently": 9,
+    "happily": 13,
+    "slowly": 9,
+    "gracefully": 8,
+    "easily": 10,
+    "yesterday": 6
+  },
+  "Your quick cat found garden today": {
+    "<EOS>": 30
+  },
+  "Your quick cat found garden outside": {
+    "<EOS>": 30
+  },
+  "Your quick cat found garden quickly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found garden carefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found garden silently": {
+    "<EOS>": 30
+  },
+  "Your quick cat found garden happily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found garden slowly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found garden gracefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found garden easily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found garden yesterday": {
+    "<EOS>": 30
+  },
+  "Your quick cat found bridge": {
+    "today": 3,
+    "outside": 11,
+    "quickly": 16,
+    "carefully": 3,
+    "silently": 20,
+    "happily": 13,
+    "slowly": 6,
+    "gracefully": 4,
+    "easily": 11,
+    "yesterday": 12
+  },
+  "Your quick cat found bridge today": {
+    "<EOS>": 30
+  },
+  "Your quick cat found bridge outside": {
+    "<EOS>": 30
+  },
+  "Your quick cat found bridge quickly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found bridge carefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found bridge silently": {
+    "<EOS>": 30
+  },
+  "Your quick cat found bridge happily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found bridge slowly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found bridge gracefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found bridge easily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found bridge yesterday": {
+    "<EOS>": 30
+  },
+  "Your quick cat found castle": {
+    "today": 7,
+    "outside": 8,
+    "quickly": 6,
+    "carefully": 19,
+    "silently": 13,
+    "happily": 18,
+    "slowly": 18,
+    "gracefully": 10,
+    "easily": 7,
+    "yesterday": 10
+  },
+  "Your quick cat found castle today": {
+    "<EOS>": 30
+  },
+  "Your quick cat found castle outside": {
+    "<EOS>": 30
+  },
+  "Your quick cat found castle quickly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found castle carefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found castle silently": {
+    "<EOS>": 30
+  },
+  "Your quick cat found castle happily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found castle slowly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found castle gracefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found castle easily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found castle yesterday": {
+    "<EOS>": 30
+  },
+  "Your quick cat found book": {
+    "today": 11,
+    "outside": 12,
+    "quickly": 5,
+    "carefully": 16,
+    "silently": 4,
+    "happily": 6,
+    "slowly": 9,
+    "gracefully": 14,
+    "easily": 19,
+    "yesterday": 13
+  },
+  "Your quick cat found book today": {
+    "<EOS>": 30
+  },
+  "Your quick cat found book outside": {
+    "<EOS>": 30
+  },
+  "Your quick cat found book quickly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found book carefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found book silently": {
+    "<EOS>": 30
+  },
+  "Your quick cat found book happily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found book slowly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found book gracefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found book easily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found book yesterday": {
+    "<EOS>": 30
+  },
+  "Your quick cat found painting": {
+    "today": 14,
+    "outside": 2,
+    "quickly": 10,
+    "carefully": 19,
+    "silently": 5,
+    "happily": 16,
+    "slowly": 13,
+    "gracefully": 10,
+    "easily": 20,
+    "yesterday": 14
+  },
+  "Your quick cat found painting today": {
+    "<EOS>": 30
+  },
+  "Your quick cat found painting outside": {
+    "<EOS>": 30
+  },
+  "Your quick cat found painting quickly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found painting carefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found painting silently": {
+    "<EOS>": 30
+  },
+  "Your quick cat found painting happily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found painting slowly": {
+    "<EOS>": 30
+  },
+  "Your quick cat found painting gracefully": {
+    "<EOS>": 30
+  },
+  "Your quick cat found painting easily": {
+    "<EOS>": 30
+  },
+  "Your quick cat found painting yesterday": {
+    "<EOS>": 30
+  }
+}
